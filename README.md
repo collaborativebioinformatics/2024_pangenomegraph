@@ -91,7 +91,7 @@ Hackathon paper
 | Abohassan |  | Flowchart/ writer1 |  | abolhassanbahari@gmail.com | AbolhassanBahari | abolhassan |
 | Kristen |  |  |  | kristendcurry@gmail.com | kdc10 | kristendcurry |
 | Aanuoluwa |  |  |  | aanuoluwadekoya@gmail.com | aanuoluwaduro | aanuoluwaduro |
-| Christian |  |  |  |  |  |  |
+| Christian |  |  |  | christian.brueffer@insilico.consulting | [cbrueffer](https://github.com/cbrueffer) | cbrueffer |
 | Jen-Yu |  | writer2 |  | jenyuw@uci.edu | jyw-atgithub | jenyuwang |
 | Rayan |   |  |  |  |  |  |
 | Narges |  |  |  | nargessangaranip@gmail.com | nargessangaranipour | NargesSangaraniPour |
