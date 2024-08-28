@@ -107,7 +107,7 @@ Higher priority on top
 - [ ] Downloading Alignment to the DNA nexus \[ ? \]    
 - [ ]    
 - [ ]   
-- [ ] Filtering alignment (think of packages, command line) \[Jen-Yen\]   
+- [ ] Filtering alignment (think of packages, command line) \[Jen-Yu\]   
 - [ ] Work on the metadata of SRA accessions \[Kristen\]  
 - [ ] Literature on AMR genes and SRA \[Hassan\]
 
