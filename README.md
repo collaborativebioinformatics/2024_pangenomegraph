@@ -13,7 +13,7 @@ In this project, we will align the genes of CARD (Comprehensive Antibiotic Resis
 
 ## Flowchart
 
-![AFlowchart](figure/figure_flowchart1.png)
+![AFlowchart](figure/figure_flowchart2.jpg)
 
 
 ## Summary of Procedures
