@@ -10,6 +10,12 @@ Antimicrobial resistance (AMR) is a growing global health concern, driven by the
 
 In this project, we will align the genes of CARD (Comprehensive Antibiotic Resistance Database) [(Alcock et al., 2023\)](https://paperpile.com/c/BaoF4C/nj8p) to the Logan database to identify and catalog AMR genes present in the dataset. By leveraging the highly efficient unitigs and contigs of Logan, we aim to detect AMR genes with high accuracy and sensitivity, despite the inherent complexities and challenges of working with such a large-scale dataset [(Bradley et al., 2019\)](https://paperpile.com/c/BaoF4C/Zuh9)\[see section “***Antibiotic resistance genes in the ENA***”\]. This work will provide valuable insights into the distribution and prevalence of AMR genes across a vast range of environments and host organisms.
 
+
+## Flowchart
+
+![AFlowchart](figure/figure_flowchart1.png)
+
+
 ## Summary of Procedures
 
 1. Data Preparation  
