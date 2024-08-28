@@ -75,22 +75,8 @@ Instructions from Rayan [here](https://docs.google.com/document/d/1bAg4cFNDB3rXX
 
 ## Team members:
 
-## Useful links
 
-**Zoom link for the group meetings:**   [https://jhubluejays.zoom.us/my/majidian](https://jhubluejays.zoom.us/my/majidian) 
-
-**Zoom link for the hackathon**  [https://dnanexus.zoom.us/j/98866720215?pwd=MUl0WnBmYUQyc1dHU3l3cGpuNHAyQT09](https://dnanexus.zoom.us/j/98866720215?pwd=MUl0WnBmYUQyc1dHU3l3cGpuNHAyQT09) 
-
-Hackathon schedule: [https://docs.google.com/document/d/1d9ZsMiFST9YFqCRGv23OA6V5S-iCwPbQXfJrdJWx5xc/edit\#heading=h.ljuyhf5x89pp](https://docs.google.com/document/d/1d9ZsMiFST9YFqCRGv23OA6V5S-iCwPbQXfJrdJWx5xc/edit\#heading=h.ljuyhf5x89pp)
-
-GitHub page [https://github.com/collaborativebioinformatics/2024\_pangenomegraph](https://github.com/collaborativebioinformatics/2024\_pangenomegraph)
-
-DNA nexus command line help page [https://documentation.dnanexus.com/getting-started/cli-quickstart](https://documentation.dnanexus.com/getting-started/cli-quickstart) 
-
-Hackathon paper   
-[https://docs.google.com/document/d/1VdB\_qICMPKzlhnhZvWOAz54-u7s7aa\_H2NSEp32tgx4/edit](https://docs.google.com/document/d/1VdB\_qICMPKzlhnhZvWOAz54-u7s7aa\_H2NSEp32tgx4/edit) 
-
-| name | role | task |  | E-mail (gmail) | Github | dnaNexus |
+| name | role | task |  | E-mail (gmail) | Github |  |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Daniel | colead | Sysadmin |  | danielp.agustinho@gmail.com | DanielPAagustinho | DanielPA |
 | Sina | colead |  |  | sina.majidian@gmail.com | sinamajidian | smajidian |
@@ -111,9 +97,10 @@ Higher priority on top
 - [ ] Prepare flowchart \[Hassan\]  
 - [ ] Add people to the DNA nexus \[Daniel\]  
 - [ ] Downloading Alignment to the DNA nexus \[ ? \]    
-- [ ]    
-- [ ]   
-- [ ] Filtering alignment (think of packages, command line) \[Jen-Yen\]   
+- [ ] parse the CARD database (strain info) [  ]
+- [ ] Mainin Github [  ]
+- [ ] Writer [ ] 
+- [ ] Filtering alignment (think of tool, command line) [Jen-Yu, Daniel, Sina] (length, gens)
 - [ ] Work on the metadata of SRA accessions \[Kristen\]  
 - [ ] Literature on AMR genes and SRA \[Hassan\]
 
