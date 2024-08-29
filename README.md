@@ -28,7 +28,11 @@ To get an overview of the composition of the CARD database we performed some gen
 </p>
 
 <p float="left">
-    <img src="figure/card_resistance_mechanisms.png" width="50%" /> 
+  <img src="figure/card_resistance_mechanisms.png" width="45%" /> 
+</p>
+
+<p float="left">
+  <img src="figure/card_drug_classes.png" width="100%" /> 
 </p>
 
 #### Main Takeaways
