@@ -16,6 +16,31 @@ In this project, we will align the genes of CARD (Comprehensive Antibiotic Resis
 ![AFlowchart](figure/figure_flowchart2_scaled.jpg)
 
 
+## Results
+
+### CARD Database Analysis
+
+To get an overview of the composition of the CARD database we performed some general analyses of the overall dataset.
+
+<p float="left">
+  <img src="figure/card_number_genes_per_species.png" width="49%" />
+  <img src="figure/card_top20_species_most_genes.png" width="49%" />
+</p>
+
+<p float="left">
+    <img src="figure/card_resistance_mechanisms.png" width="50%" /> 
+</p>
+
+#### Main Takeaways
+
+- Most organisms contribute few AMR genes to the database, while few organisms contribute the bulk of AMR genes
+- The top 4 organisms contributing AMR genes are the "usual suspects":
+  - Pseudonomas aeruginosa
+  - Acinetobacter baumannii
+  - Klebsiella pneumoniae
+  - Escherichia coli
+- The most prevalent antibiotic mechanism is antibiotic inactivation, but several other mechanisms are prevalent
+
 ## Summary of Procedures
 
 1. Data Preparation  
