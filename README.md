@@ -90,6 +90,17 @@ To get an overview of the composition of the CARD database we performed some gen
 ## _Escherichia coli_
 ![Ecoli_plot](https://github.com/user-attachments/assets/134589e2-53ff-400c-ba02-2bd2c59aaa46)
 
+### E coli : antibiotic mechanisms 
+<p float="left">
+  <img src="figure/ecoli_mechanism.png" width="100%" /> 
+</p>
+E. coli tends to resist by efflux and alternating antibiotic target.
+
+
+
+
+  
+
 
 ## Spatial analyses 
 <p float="left">
