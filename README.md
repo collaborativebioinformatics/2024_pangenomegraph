@@ -121,4 +121,5 @@ Li, H. (2018). Minimap2: pairwise alignment for nucleotide sequences. [*Bioinfor
 
 ## Team members:
 Daniel, Sina, Abohassan, Kristen, Aanuoluwa, Christian, Jen-Yu,  Narges, Francesco, Rayan.
+![Screenshot 2024-08-30 at 16 38 23](https://github.com/user-attachments/assets/dea08ac8-717c-4da3-8b7a-fed7d70b7d3f)
 
