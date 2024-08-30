@@ -80,6 +80,16 @@ To get an overview of the composition of the CARD database we performed some gen
 ## _Escherichia coli_
 ![Ecoli_plot](https://github.com/user-attachments/assets/134589e2-53ff-400c-ba02-2bd2c59aaa46)
 
+
+## Spatial analyses 
+<p float="left">
+  <img src="figure/world1.png" width="100%" /> 
+</p>
+
+<p float="left">
+  <img src="figure/world2.png" width="100%" /> 
+</p>
+
 ## Possible Future Directions
 
 1. Annotation and Visualization:  
@@ -92,6 +102,9 @@ To get an overview of the composition of the CARD database we performed some gen
    
 
 This project will not only contribute to the understanding of AMR gene distribution but also provide participants with hands-on experience in handling large-scale genomic datasets and applying bioinformatics tools in a real-world context.
+
+
+
 
 ## Extra information
 
