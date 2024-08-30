@@ -15,6 +15,13 @@ In this project, we will align the genes of CARD (Comprehensive Antibiotic Resis
 
 ![AFlowchart](figure/AMR_v3.drawio.png)
 
+## Software
+Here is the code to run our pipeline!
+```
+./AMRdiscover.sh --input alignment_SAM_filenames.txt --download /path/to/download --upload /path/to/upload
+
+```
+
 
 ## Results
 
