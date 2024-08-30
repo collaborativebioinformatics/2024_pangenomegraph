@@ -8,6 +8,13 @@ Antimicrobial resistance (AMR) is a growing global health concern, driven by the
 
 In this project, we will align the genes of CARD (Comprehensive Antibiotic Resistance Database) [(Alcock et al., 2023\)](https://paperpile.com/c/BaoF4C/nj8p) to the Logan database to identify and catalog AMR genes present in the dataset. By leveraging the highly efficient unitigs and contigs of Logan, we aim to detect AMR genes with high accuracy and sensitivity, despite the inherent complexities and challenges of working with such a large-scale dataset [(Bradley et al., 2019\)](https://paperpile.com/c/BaoF4C/Zuh9)\[see section “***Antibiotic resistance genes in the ENA***”\]. This work will provide valuable insights into the distribution and prevalence of AMR genes across a vast range of environments and host organisms.
 
+### Advantages of Using Logan over Raw Read-based Approaches for AMR Gene Detection
+
+* Improved Contamination Control: By aligning contigs instead of raw reads, Logan minimizes contamination issues, leading to more accurate and reliable detection of AMR genes.  
+* Increased Completeness: Logan offers a more complete dataset compared to previous subsets, providing a more comprehensive representation of the genetic material in the SRA.  
+* Enhanced Sensitivity, Specificity, and Efficiency: Logan provides assembled sequences (unitigs or contigs) that reduce sequencing errors and improve sequence contiguity. This allows for more accurate AMR gene detection and can be analyzed more efficiently than raw reads, making it particularly beneficial for large-scale AMR gene detection projects.  
+* Streamlined Analysis: The organization and accessibility of the Logan database allow for more efficient and scalable bioinformatics workflows, reducing computational overhead and improving overall analysis accuracy.  
+* Data Accessibility: Logan is publicly available on AWS, making it easy to access and analyze. This promotes reproducibility and facilitates collaboration among researchers, streamlining the bioinformatics workflows and reducing computational overhead.
 
 ## Flowchart
 
