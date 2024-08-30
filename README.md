@@ -68,6 +68,18 @@ To get an overview of the composition of the CARD database we performed some gen
       3. Summarize the findings in terms of the presence, distribution, and frequency of different AMR genes across the samples including metadata.  
       4. Interpret the results considering the limitations of the approach.
 
+## _Pseudomonas aeruginosa_
+![Paeruginosa_plot](https://github.com/user-attachments/assets/6624537d-2c73-4a00-a191-e7d016a0a020)
+
+## _Acinetobacter baumannii_
+![Abaumannii_plot](https://github.com/user-attachments/assets/80d5e0e7-44e8-4068-883b-1cf398174192)
+
+## _Klebsiella pneumoniae_
+![Kpneumoniae_plot](https://github.com/user-attachments/assets/6201a32c-bbf5-4022-95d0-e38be19a9106)
+
+## _Escherichia coli_
+![Ecoli_plot](https://github.com/user-attachments/assets/134589e2-53ff-400c-ba02-2bd2c59aaa46)
+
 ## Possible Future Directions
 
 1. Annotation and Visualization:  
