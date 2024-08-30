@@ -1,10 +1,8 @@
 # 
 
-# BCM hackathon project
-
-# August 2024
-
-## Analyzing Antimicrobial Resistance Genes in NCBI Sequence Read Archive
+# AMRDiscover 
+### Analyzing Antimicrobial Resistance Genes in NCBI Sequence Read Archive
+### BCM hackathon, August 2024.
 
 Antimicrobial resistance (AMR) is a growing global health concern, driven by the overuse and misuse of antibiotics. Detecting and monitoring the presence of AMR genes in various environments is crucial for understanding the spread of resistance and informing public health strategies. The Logan database of assembled contigs and unitigs, derived from a massive freeze of the NCBI Sequence Read Archive (SRA), offers a unique and comprehensive resource for studying genetic material across a wide array of samples [(Chikhi et al., 2024\)](https://paperpile.com/c/BaoF4C/DreI).
 
