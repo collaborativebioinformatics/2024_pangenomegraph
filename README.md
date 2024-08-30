@@ -101,42 +101,17 @@ Instructions from Rayan [here](https://docs.google.com/document/d/1bAg4cFNDB3rXX
 
 ## References
 
-[Alcock, B. P., Huynh, W., Chalil, R., Smith, K. W., Raphenya, A. R., Wlodarski, M. A., Edalatmand, A., Petkau, A., Syed, S. A., Tsang, K. K., Baker, S. J. C., Dave, M., McCarthy, M. C., Mukiri, K. M., Nasir, J. A., Golbon, B., Imtiaz, H., Jiang, X., Kaur, K., … McArthur, A. G. (2023). CARD 2023: expanded curation, support for machine learning, and resistome prediction at the Comprehensive Antibiotic Resistance Database. *Nucleic Acids Research*, *51*(D1), D690–D699.](http://paperpile.com/b/BaoF4C/nj8p)  
-[Bradley, P., den Bakker, H. C., Rocha, E. P. C., McVean, G., & Iqbal, Z. (2019). Ultrafast search of all deposited bacterial and viral genomic data. *Nature Biotechnology*, *37*(2), 152–159.](http://paperpile.com/b/BaoF4C/Zuh9)  
-[Buchfink, B., Xie, C., & Huson, D. H. (2015). Fast and sensitive protein alignment using DIAMOND. *Nature Methods*, *12*(1), 59–60.](http://paperpile.com/b/BaoF4C/EJYR)  
-[Chikhi, R., Raffestin, B., Korobeynikov, A., Edgar, R., & Babaian, A. (2024). Logan: Planetary-Scale Genome Assembly Surveys Life’s Diversity. In *bioRxiv* (p. 2024.07.30.605881). https://doi.org/](http://paperpile.com/b/BaoF4C/DreI)[10.1101/2024.07.30.605881](http://dx.doi.org/10.1101/2024.07.30.605881)  
-[Li, H. (2018). Minimap2: pairwise alignment for nucleotide sequences. *Bioinformatics* , *34*(18), 3094–3100.](http://paperpile.com/b/BaoF4C/dzWG)
+Alcock, B. P., Huynh, W., Chalil, R., Smith, K. W., Raphenya, A. R., Wlodarski, M. A., Edalatmand, A., Petkau, A., Syed, S. A., Tsang, K. K., Baker, S. J. C., Dave, M., McCarthy, M. C., Mukiri, K. M., Nasir, J. A., Golbon, B., Imtiaz, H., Jiang, X., Kaur, K., … McArthur, A. G. (2023). CARD 2023: expanded curation, support for machine learning, and resistome prediction at the Comprehensive Antibiotic Resistance Database. *Nucleic Acids Research*, *51*D1, D690–D699.
+Bradley, P., den Bakker, H. C., Rocha, E. P. C., McVean, G., & Iqbal, Z. (2019). Ultrafast search of all deposited bacterial and viral genomic data. *Nature Biotechnology*, *37*(2), 152–159.](http://paperpile.com/b/BaoF4C/Zuh9)  
+[Buchfink, B., Xie, C., & Huson, D. H. (2015). Fast and sensitive protein alignment using DIAMOND. [*Nature Methods*, *12*1, 59–60.](http://paperpile.com/b/BaoF4C/EJYR)  
+Chikhi, R., Raffestin, B., Korobeynikov, A., Edgar, R., & Babaian, A. (2024). Logan: Planetary-Scale Genome Assembly Surveys Life’s Diversity. [In *bioRxiv* p. 2024.07.30.605881.](http://dx.doi.org/10.1101/2024.07.30.605881)  
+Li, H. (2018). Minimap2: pairwise alignment for nucleotide sequences. [*Bioinformatics* , *34*18, 3094–3100.](http://paperpile.com/b/BaoF4C/dzWG)
 
 ## Team members:
+Daniel, Sina, Abohassan, Kristen, Aanuoluwa, Christian, Jen-Yu,  Narges, Francesco, Rayan.
 
 
-| name | role | task |  | E-mail (gmail) | Github |  |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Daniel | colead | Sysadmin |  | danielp.agustinho@gmail.com | DanielPAagustinho | DanielPA |
-| Sina | colead |  |  | sina.majidian@gmail.com | sinamajidian | smajidian |
-| Abohassan |  | Flowchart/ writer1 |  | abolhassanbahari@gmail.com | AbolhassanBahari | abolhassan |
-| Kristen |  |  |  | kristendcurry@gmail.com | kdc10 | kristendcurry |
-| Aanuoluwa |  |  |  | aanuoluwadekoya@gmail.com | aanuoluwaduro | aanuoluwaduro |
-| Christian |  |  |  | christian.brueffer@insilico.consulting | [cbrueffer](https://github.com/cbrueffer) | cbrueffer |
-| Jen-Yu |  | writer2 |  | jenyuw@uci.edu | jyw-atgithub | jenyuwang |
-| Rayan |   |  |  |  |  |  |
-| Narges |  |  |  | nargessangaranip@gmail.com | nargessangaranipour | NargesSangaraniPour |
 
-roles to be distributed: Sysadmin DNAnexus /Github/ , Flowchart,  presenter\_day1, writer1, writer2
-
-## ToDo list: (day1 )
-
-Higher priority on top
-
-- [ ] Prepare flowchart \[Hassan\]  
-- [ ] Add people to the DNA nexus \[Daniel\]  
-- [ ] Downloading Alignment to the DNA nexus \[ ? \]    
-- [ ] parse the CARD database (strain info) [  ]
-- [ ] Mainin Github [  ]
-- [ ] Writer [ ] 
-- [ ] Filtering alignment (think of tool, command line) [Jen-Yu, Daniel, Sina] (length, gens)
-- [ ] Work on the metadata of SRA accessions \[Kristen\]  
-- [ ] Literature on AMR genes and SRA \[Hassan\]
 
 - [ ] Add people to the github 
 
