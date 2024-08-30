@@ -1,0 +1,98 @@
+country,continent,Cephalosporins,Fluoroquinolones,Other,Aminoglycosides,Carbapenems
+Afghanistan,Asia,5,5,5,0,0
+Argentina,South America,23,23,23,23,6
+Australia,Oceania,2213,2218,2221,1930,460
+Austria,Europe,297,297,298,259,72
+Bahrain,Asia,55,55,55,55,19
+Bangladesh,Asia,32,32,32,32,16
+Belgium,Europe,439,439,438,340,158
+Benin,Africa,19,19,19,19,19
+Bolivia,South America,50,50,50,46,23
+Brazil,South America,90,90,92,83,18
+Burkina Faso,Africa,4,4,4,1,0
+Cambodia,Asia,424,424,424,424,76
+Canada,North America,4147,4236,4271,2893,1079
+Chile,South America,64,104,104,104,39
+China,Asia,3823,3756,3995,3644,986
+Colombia,South America,0,1,1,1,1
+Costa Rica,North America,1,1,1,0,0
+Croatia,Europe,4,4,4,3,3
+Cuba,North America,1,1,1,1,1
+Czech Republic,Europe,78,78,78,77,43
+Denmark,Europe,508,505,507,265,19
+Dominican Republic,North America,69,69,69,69,6
+Ecuador,South America,338,340,340,102,18
+Egypt,Africa,24,22,24,24,8
+Ethiopia,Africa,81,81,81,81,44
+Finland,Europe,21,21,21,1,1
+France,Europe,813,840,843,814,327
+Gambia,Africa,88,88,88,88,30
+Georgia,Asia,0,18,18,18,15
+Germany,Europe,651,696,707,590,127
+Ghana,Africa,4,5,4,2,2
+Greece,Europe,10,10,10,10,8
+Guadeloupe,North America,28,28,28,28,8
+Honduras,North America,54,54,54,54,8
+Hong Kong,Asia,110,112,108,88,41
+Hungary,Europe,29,29,30,27,3
+India,Asia,353,355,356,342,180
+Indonesia,Asia,0,0,0,1,0
+Ireland,Europe,256,281,282,281,69
+Israel,Asia,785,791,789,539,180
+Italy,Europe,72,299,298,296,130
+Japan,Asia,330,303,604,581,35
+Kazakhstan,Asia,4,4,4,4,1
+Kenya,Africa,24,30,31,29,19
+Kuwait,Asia,73,73,73,73,34
+Laos,Asia,279,281,281,281,62
+Lebanon,Asia,19,19,19,19,4
+Lithuania,Europe,33,5,28,23,1
+Madagascar,Africa,508,508,508,508,57
+Malawi,Africa,60,60,60,60,46
+Malaysia,Asia,48,48,48,46,19
+Mexico,North America,62,73,73,72,38
+Morocco,Africa,0,1,1,1,1
+Myanmar,Asia,1,1,1,1,1
+Nepal,Asia,16,16,16,16,10
+Netherlands,Europe,361,361,361,360,49
+New Zealand,Oceania,1221,1392,1386,1164,444
+Niger,Africa,54,54,54,0,0
+Nigeria,Africa,330,330,330,244,70
+Norway,Europe,15,15,15,0,0
+Oman,Asia,37,37,37,37,11
+Pakistan,Asia,303,304,310,235,31
+Panama,North America,2,2,2,2,0
+Paraguay,South America,5,5,5,5,2
+Peru,South America,275,288,288,288,57
+Poland,Europe,42,42,42,35,0
+Portugal,Europe,161,160,164,158,64
+Puerto Rico,North America,1,1,1,1,0
+Qatar,Asia,336,336,338,336,152
+Russia,Europe,142,142,145,137,40
+Saudi Arabia,Asia,66,66,66,66,27
+Senegal,Africa,0,0,0,1,0
+Serbia,Europe,5,5,5,5,1
+Singapore,Asia,402,402,406,61,17
+South Africa,Africa,213,213,214,195,110
+South Korea,Asia,140,140,140,93,43
+Spain,Europe,496,638,638,628,338
+Sri Lanka,Asia,65,64,65,5,3
+Sudan,Africa,2,2,2,1,0
+Sweden,Europe,235,236,235,70,41
+Switzerland,Europe,851,849,864,721,190
+Taiwan,Asia,22,23,23,23,5
+Tajikistan,Asia,1,1,1,1,1
+Tanzania,Africa,51,68,67,41,41
+Thailand,Asia,497,499,500,404,148
+Turkey,Asia,47,86,86,86,4
+USA,North America,39504,52653,52950,40134,13158
+Uganda,Africa,41,42,42,41,23
+Ukraine,Europe,3,3,3,0,0
+United Arab Emirates,Asia,40,40,40,39,4
+United Kingdom,Europe,23505,24139,24155,15136,1878
+Uruguay,South America,7,7,7,3,1
+Venezuela,South America,3,3,3,1,0
+Viet Nam,Asia,335,363,363,363,52
+Zambia,Africa,2,2,4,4,2
+uncalculated,uncalculated,2679,2499,2964,2168,600
+NA,NA,94,104,118,88,32
