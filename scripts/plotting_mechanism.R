@@ -6,22 +6,6 @@ library("RColorBrewer")
 library("khroma")
 # toy file: SRR0_SRR11.csv
 t=read.csv("SRR0_SRR11.csv",header=TRUE)
-t_ec= t %>% filter_all(all_vars(!is.na(.))) %>% filter(organism=="Escherichia coli") %>% select(organism, collection_date_sam,Resistance.Mechanism) %>%
-mutate(year=as.numeric(substr(collection_date_sam,1,4))) 
-#levels(t_ec$Resistance.Mechanism)
-
-t_ec_ata= t_ec %>% filter(grepl("antibiotic target alteration",Resistance.Mechanism)) %>% count(year) %>% mutate(mechanism="antibiotic target alteration")
-t_ec_ae= t_ec %>% filter(grepl("antibiotic efflux",Resistance.Mechanism)) %>% count(year)%>% mutate(mechanism="antibiotic efflux")
-t_ec_rpa= t_ec %>% filter(grepl("reduced permeability to antibiotic",Resistance.Mechanism)) %>% count(year)%>% mutate(mechanism="reduced permeability to antibiotic")
-t_ec_ra= t_ec %>% filter(grepl("resistance by absence",Resistance.Mechanism)) %>% count(year) %>% mutate(mechanism="resistance by absence")
-t_ec_atr= t_ec %>% filter(grepl("antibiotic target replacement",Resistance.Mechanism)) %>% count(year) %>% mutate(mechanism="antibiotic target replacement")
-t_ec_rhdna= t_ec %>% filter(grepl("resistance by host-dependent nutrient acquisition",Resistance.Mechanism)) %>% count(year) %>% mutate(mechanism="resistance by host-dependent nutrient acquisition")
-t_ec_all= bind_rows(t_ec_ata,t_ec_ae,t_ec_rpa,t_ec_ra,t_ec_atr,t_ec_rhdna)%>% group_by(year)  %>% mutate(year_sum=sum(n))%>% mutate(percent=n/year_sum*100) 
-
-p1=ggplot(t_ec_all, aes(x=year, y=percent, color=mechanism)) 
-p1=p1+geom_line(linewidth=1.1)+ scale_colour_bright()+ggtitle("E. coli Resistance Mechanisms Over Time")+ylab("Percentage of Resistance Mechanism")+xlab("Year")
-ggsave("ecoli_mechanism.png", plot=p1, width=9, height=6, dpi=300, units = "in")
-
 
 m_list=c("antibiotic target alteration","antibiotic efflux","reduced permeability to antibiotic","resistance by absence","antibiotic target replacement","resistance by host-dependent nutrient acquisition")
 organism_list=c("Escherichia coli","Pseudomonas aeruginosa","Acinetobacter baumannii","Klebsiella pneumoniae")
